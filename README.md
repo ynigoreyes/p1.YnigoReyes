@@ -1,7 +1,7 @@
 # HCI Microwave
 by Ynigo Reyes
 
-Link to Website: https://ynigoreyes.github.io/p1YnigoReyes/
+Link to Website: https://ynigoreyes.github.io/p1.YnigoReyes/
 
 Please run pde on your own to test app
 
