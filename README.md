@@ -2,6 +2,7 @@
 by Ynigo Reyes
 
 Link to Website: https://ynigoreyes.github.io/p1.YnigoReyes/
+Link to Youtube Video: https://youtu.be/NXKVZrCmvC4
 
 Please run pde on your own to test app
 
